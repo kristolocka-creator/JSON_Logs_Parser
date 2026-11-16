@@ -1,0 +1,25 @@
+{"timestamp":"2025-02-18T10:00:01","prompt":"Привет","response":"Здравствуйте!","tokens_used":853,"latency_ms":120,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:03:15","prompt":"Объясни Python","response":"Python — язык программирования.","tokens_used":1250,"latency_ms":300,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:05:42","prompt":"Что такое JSON?","response":"JSON — формат обмена данными.","tokens_used":890,"latency_ms":200,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:08:10","prompt":"Составь план проекта","response":"Вот пример плана проекта.","tokens_used":1800,"latency_ms":600,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:11:33","prompt":"Проверь этот запрос","tokens_used":750,"latency_ms":250,"error":"timeout","model":"gpt-4"}
+{"timestamp":"2025-02-18T10:14:05","prompt":"Напиши функцию сортировки","response":"Можно использовать sorted().","tokens_used":1100,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:17:28","prompt":"Проанализируй текст","response":"Текст содержит несколько ключевых идей.","tokens_used":2300,"latency_ms":900,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:20:44","prompt":"Что такое список?","response":"Список — изменяемая коллекция Python.","tokens_used":700,"latency_ms":180,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T10:23:01","prompt":"Помоги исправить ошибку","response":"Покажи текст ошибки.","tokens_used":1450,"latency_ms":320,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:25:10","prompt":"Объясни исключения","tokens_used":890,"latency_ms":205,"error":"timeout","model":"gpt-3.5"}
+{"timestamp":"2025-02-18T10:28:37","prompt":"Напиши README","response":"README должен описывать проект.","tokens_used":1600,"latency_ms":450,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:31:52","prompt":"Что такое Git?","response":"Git — система контроля версий.","tokens_used":550,"latency_ms":150,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T10:34:19","prompt":"Объясни работу API","response":"API позволяет программам взаимодействовать.","tokens_used":1300,"latency_ms":380,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:37:46","prompt":"Сделай краткое резюме","response":"Краткое резюме готово.","tokens_used":980,"latency_ms":220,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T10:40:03","prompt":"Проанализируй большой документ","response":"Документ содержит несколько разделов.","tokens_used":2100,"latency_ms":750,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:43:27","prompt":"Помоги с регулярным выражением","response":"Попробуй использовать модуль re.","tokens_used":1150,"latency_ms":340,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:46:55","prompt":"Что такое цикл?","response":"Цикл позволяет повторять действия.","tokens_used":620,"latency_ms":160,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T10:49:21","prompt":"Оптимизируй этот код","response":"Можно уменьшить количество операций.","tokens_used":1750,"latency_ms":520,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:52:48","prompt":"Проверь доступность сервиса","tokens_used":900,"latency_ms":1000,"error":"service_unavailable","model":"gpt-4"}
+{"timestamp":"2025-02-18T10:55:14","prompt":"Объясни классы Python","response":"Классы позволяют создавать собственные типы.","tokens_used":1400,"latency_ms":410,"model":"gpt-4"}
+{"timestamp":"2025-02-18T10:58:39","prompt":"Что такое переменная?","response":"Переменная хранит значение.","latency_ms":190,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T11:01:05","prompt":"Составь техническое задание","response":"Техническое задание описывает требования.","tokens_used":1900,"latency_ms":580,"model":"gpt-4"}
+{"timestamp":"2025-02-18T11:04:31","prompt":"Объясни функции Python","response":"Функция — блок кода для выполнения задачи.","tokens_used":820,"latency_ms":210,"model":"gpt-3.5"}
+{"timestamp":"2025-02-18T11:07:02","prompt":"Проанализируй архитектуру сервиса","response":"Архитектура состоит из нескольких компонентов.","tokens_used":2600,"latency_ms":1100,"model":"gpt-4"}
+{"timestamp":"2025-02-18T11:10:26","prompt":"Помоги подготовиться к проверке","response":"Давай разберём основные вопросы.","tokens_used":1050,"latency_ms":290,"model":"gpt-4"}

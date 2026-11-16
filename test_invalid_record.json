@@ -1,0 +1,3 @@
+{"timestamp":"2025-02-18T12:00:00","tokens_used":1500,"latency_ms":300}
+"это просто строка"
+{"timestamp":"2025-02-18T12:02:00","tokens_used":2000,"latency_ms":400}
